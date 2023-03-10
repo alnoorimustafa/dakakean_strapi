@@ -1,8 +1,8 @@
 {
-  "name": "strapi",
+  "name": "dakakean",
   "private": true,
   "version": "0.1.0",
-  "description": "A Strapi application",
+  "description": "dakakean",
   "scripts": {
     "develop": "strapi develop",
     "start": "node node_modules/@strapi/strapi/bin/strapi.js start",
@@ -17,7 +17,7 @@
     "strapi-provider-upload-azure-storage": "^3.1.3"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Mustafa alnoori"
   },
   "strapi": {
     "uuid": "76dd20c0-489f-4087-8302-00d97df750b4"
