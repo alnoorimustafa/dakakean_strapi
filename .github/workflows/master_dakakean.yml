@@ -59,4 +59,3 @@ jobs:
           app-name: 'dakakean'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5FEBFDE8C4A943CBA5B034AF975DE0A5 }}
-          package: ${{ env.AZURE_WEBAPP_PACKAGE_PATH }}
