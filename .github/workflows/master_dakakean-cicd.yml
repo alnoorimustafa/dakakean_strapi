@@ -53,7 +53,7 @@ jobs:
           name: node-app
 
       - name: 'Untar files'
-        run: 'tar -xf release.tar' 
+        run: 'tar -xf release.tar /home/site/wwwroot' 
 
       # - name: unzip artifact for deployment
       #   run: unzip release.zip
