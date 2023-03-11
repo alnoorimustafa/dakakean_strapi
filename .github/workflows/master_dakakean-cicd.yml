@@ -52,8 +52,8 @@ jobs:
         with:
           name: node-app
 
-      # - name: Untar files
-      #   run: tar -xf release.tar
+      - name: Untar files
+        run: tar -xf release.tar
 
       # - name: unzip artifact for deployment
       #   run: unzip release.zip
